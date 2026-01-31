@@ -85,19 +85,6 @@ I enjoy building systems that blend **logic, performance, and visual polish** �
 
 ---
 
-## 🛠️ Skills Snapshot
-
-**Programming Languages**
-Python • SQL • Java • C++ • C • C# • TypeScript • JavaScript • HTML • CSS • Tailwind
-
-**Frameworks & Tools**
-React • Next.js • Node.js • Power BI • Snowflake • Git • JIRA • Unity • Godot • Photoshop
-
-**Other Competencies**
-Prompt Engineering • RAG Systems • AI Agents • Vector Databases • API Integration • Data Pipelines • Agile/Scrum • UI/UX Design • Documentation
-
----
-
 ## 🎮 Game Development Experience
 
 * Built and prototyped games using **Unity** and **Godot**
