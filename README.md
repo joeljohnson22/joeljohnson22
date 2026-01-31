@@ -113,21 +113,6 @@ Prompt Engineering • RAG Systems • AI Agents • Vector Databases • API In
 
 ---
 
-## 💼 Professional Experience Highlights
-
-**Data Analyst Intern — American Association for Cancer Research (AACR)**
-
-* Designed **15+ standardized Power BI templates** supporting 20+ dashboards across 14 departments
-* Developed optimized **SQL queries in Snowflake** for healthcare, financial, and operational data
-* Supported data migration to **Salesforce Data Cloud** with multi-source validation
-
-**IT & BI Intern — MaGrann Associates**
-
-* Built stored procedures and optimized SQL queries
-* Delivered Power BI dashboards and automated reporting
-
----
-
 ## 🌍 Let’s Connect
 
 * 🌐 **Website (Main Hub):** [https://joelcjohnson.vercel.app](https://joelcjohnson.vercel.app)
