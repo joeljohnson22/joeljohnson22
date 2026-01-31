@@ -1,18 +1,7 @@
 # 👋 Hi, I'm **Joel C. Johnson**
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com
-    ?font=Inter
-    &weight=800
-    &size=34
-    &pause=900
-    &color=38BDF8
-    &center=true
-    &vCenter=true
-    &width=900
-    &lines=Software+Engineering+Student+at+Drexel+University;Full-Stack+%26+Data+Developer;Game+Developer+%7C+AI+%26+Automation+Builder" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+at+Drexel+University;Full-Stack+%26+Data+Developer;Game+Developer+%7C+AI+%26+Automation+Builder" />
 </p>
 
 <p align="center">
