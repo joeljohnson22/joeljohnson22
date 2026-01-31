@@ -27,14 +27,68 @@ I enjoy building systems that blend **logic, performance, and visual polish** �
 * 🎨 Strong UI/UX instincts from an art & design background
 
 ---
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+---
 
-## 🖼️ Tech Stack (Visual Overview)
+## 🛠️ Tech Stack
+
+### Core Technologies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joelcjohnson/joelcjohnson/main/tech-stack.png" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-> **Core Technologies**: OpenAI, LangChain, Hugging Face, Power BI, Python, SQL, TypeScript, C#, Java, React, Next.js, Tailwind, Node.js, Git, Figma
+### Programming Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
+
+### Frameworks & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+### Game Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+</p>
+
+### Tools & Workflow
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+### AI, Data & Other Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Integration-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Pipelines-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0F766E?style=for-the-badge" />
+</p>
 
 ---
 
@@ -74,18 +128,6 @@ Prompt Engineering • RAG Systems • AI Agents • Vector Databases • API In
 
 ---
 
-## ✨ Animated & Interactive Touches
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=120&section=footer" />
-</p>
-
----
-
 ## 🌍 Let’s Connect
 
 * 🌐 **Website (Main Hub):** [https://joelcjohnson.vercel.app](https://joelcjohnson.vercel.app)
@@ -93,5 +135,8 @@ Prompt Engineering • RAG Systems • AI Agents • Vector Databases • API In
 * 📸 **Instagram:** [https://www.instagram.com/joelc.johnson](https://www.instagram.com/joelc.johnson)
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=120&section=footer" />
+</p>
 
 ⭐️ *Actively building, learning, and looking for impactful software engineering opportunities.*
