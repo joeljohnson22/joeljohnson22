@@ -1,23 +1,40 @@
 # 👋 Hi, I'm **Joel C. Johnson**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+at+Drexel+University;Full-Stack+%26+Data+Developer;Game+Developer+%7C+AI+%26+Automation+Builder" />
+  <img 
+    src="https://readme-typing-svg.demolab.com
+    ?font=Inter
+    &weight=800
+    &size=34
+    &pause=900
+    &color=38BDF8
+    &center=true
+    &vCenter=true
+    &width=900
+    &lines=Software+Engineering+Student+at+Drexel+University;Full-Stack+%26+Data+Developer;Game+Developer+%7C+AI+%26+Automation+Builder" 
+  />
 </p>
 
 <p align="center">
-  <a href="https://joelcjohnson.vercel.app"><img src="https://img.shields.io/badge/🌐_VISIT_MY_WEBSITE-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://joelcjohnson.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_WEBSITE-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joelcjohnson"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/joelc.johnson"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/joelcjohnson">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/joelc.johnson">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🎓 About Me
 
-I’m a **Bachelor of Science in Software Engineering student at Drexel University (Class of 2027)** with hands-on experience across **software engineering, data analytics, full-stack development, and game development**.
+I’m a **Software Engineering student at Drexel University (Class of 2027)** with hands-on experience across **software engineering, data analytics, full-stack development, and game development**.
 
 I enjoy building systems that blend **logic, performance, and visual polish** — from dashboards and APIs to interactive games and AI-powered tools.
 
