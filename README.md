@@ -1,75 +1,97 @@
 # 👋 Hi, I'm **Joel C. Johnson**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Data+%26+Analytics;Full-Stack+Developer;Builder+of+Modern+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+at+Drexel+University;Full-Stack+%26+Data+Developer;Game+Developer+%7C+AI+%26+Automation+Builder" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joelcjohnson"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/joelc.johnson"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://joelcjohnson.vercel.app"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-## 🚀 About Me
-
-I’m a **software engineer and data-focused developer** who enjoys building clean, scalable, and impactful systems. I care deeply about **performance, clarity, and real-world usefulness** — whether that’s a web app, analytics pipeline, or automation tool.
-
-* 💻 Software Engineering • Data Analytics • Full-Stack Development
-* 🧠 Strong problem-solver with a systems-first mindset
-* 🎨 Artistic background → clean UI & thoughtful UX
-* 🌱 Constantly learning algorithms, system design, and modern tooling
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Frameworks & Tools
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelcjohnson&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcjohnson&layout=compact&theme=transparent&hide_border=true" height="170" />
+  <a href="https://joelcjohnson.vercel.app"><img src="https://img.shields.io/badge/🌐_VISIT_MY_WEBSITE-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joelcjohnson&theme=transparent&hide_border=true" />
+  <a href="https://www.linkedin.com/in/joelcjohnson"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/joelc.johnson"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📌 Core Interests
+## 🎓 About Me
 
-* 📊 Data Analytics & Visualization
-* 🌐 Modern Web Applications
-* 🤖 Automation & AI-powered Systems
-* 🧩 Algorithms & Problem Solving
+I’m a **Bachelor of Science in Software Engineering student at Drexel University (Class of 2027)** with hands-on experience across **software engineering, data analytics, full-stack development, and game development**.
+
+I enjoy building systems that blend **logic, performance, and visual polish** — from dashboards and APIs to interactive games and AI-powered tools.
+
+* 🧠 Software Engineering • Data & Analytics • Full-Stack Systems
+* 🎮 Game Development (Unity, Godot)
+* 📊 Data Visualization & Business Intelligence (Power BI, SQL)
+* 🎨 Strong UI/UX instincts from an art & design background
 
 ---
 
-## 🌍 Connect With Me
+## 🖼️ Tech Stack (Visual Overview)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joelcjohnson/joelcjohnson/main/tech-stack.png" alt="Tech Stack" />
+</p>
+
+> **Core Technologies**: OpenAI, LangChain, Hugging Face, Power BI, Python, SQL, TypeScript, C#, Java, React, Next.js, Tailwind, Node.js, Git, Figma
+
+---
+
+## 🛠️ Skills Snapshot
+
+**Programming Languages**
+Python • SQL • Java • C++ • C • C# • TypeScript • JavaScript • HTML • CSS • Tailwind
+
+**Frameworks & Tools**
+React • Next.js • Node.js • Power BI • Snowflake • Git • JIRA • Unity • Godot • Photoshop
+
+**Other Competencies**
+Prompt Engineering • RAG Systems • AI Agents • Vector Databases • API Integration • Data Pipelines • Agile/Scrum • UI/UX Design • Documentation
+
+---
+
+## 🎮 Game Development Experience
+
+* Built and prototyped games using **Unity** and **Godot**
+* Applied object-oriented programming, game loops, and physics systems
+* Focused on gameplay mechanics, performance, and player experience
+
+---
+
+## 💼 Professional Experience Highlights
+
+**Data Analyst Intern — American Association for Cancer Research (AACR)**
+
+* Designed **15+ standardized Power BI templates** supporting 20+ dashboards across 14 departments
+* Developed optimized **SQL queries in Snowflake** for healthcare, financial, and operational data
+* Supported data migration to **Salesforce Data Cloud** with multi-source validation
+
+**IT & BI Intern — MaGrann Associates**
+
+* Built stored procedures and optimized SQL queries
+* Delivered Power BI dashboards and automated reporting
+
+---
+
+## ✨ Animated & Interactive Touches
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=120&section=footer" />
+</p>
+
+---
+
+## 🌍 Let’s Connect
+
+* 🌐 **Website (Main Hub):** [https://joelcjohnson.vercel.app](https://joelcjohnson.vercel.app)
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/joelcjohnson](https://www.linkedin.com/in/joelcjohnson)
 * 📸 **Instagram:** [https://www.instagram.com/joelc.johnson](https://www.instagram.com/joelc.johnson)
-* 🌐 **Website:** [https://joelcjohnson.vercel.app](https://joelcjohnson.vercel.app)
 
 ---
 
-⭐️ *Always open to collaboration, learning, and building meaningful software.*
+⭐️ *Actively building, learning, and looking for impactful software engineering opportunities.*
