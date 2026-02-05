@@ -95,7 +95,7 @@ I enjoy building systems that blend **logic, performance, and visual polish** �
 
 ## 🌍 Let’s Connect
 
-* 🌐 **Website (Main Hub):** [https://joelcjohnson.vercel.app](https://joelcjohnson.vercel.app)
+* 🌐 **Website (Main Hub):** [https://joelcjohnson.vercel.app](https://joelcjohnson.me)
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/joelcjohnson](https://www.linkedin.com/in/joelcjohnson)
 * 📸 **Instagram:** [https://www.instagram.com/joelc.johnson](https://www.instagram.com/joelc.johnson)
 
